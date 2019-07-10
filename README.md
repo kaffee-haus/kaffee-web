@@ -1,6 +1,14 @@
-# kaffee-web
+# kaffee-web :coffee:
 
-## Project setup
+## Contributing :computer:
+Checkout the [contributing guidline](https://github.com/kaffee-haus/kaffee-web/blob/master/CONTRIBUTING.md)
+to get started.
+
+## Continuous Integration/Deployment :rocket: 
+Continuously integrated with Netlify. When changes are merged into master the site
+is rebuilt and redeployed through the service.
+
+## Project setup :wrench:
 ```
 yarn install
 ```
@@ -29,6 +37,3 @@ yarn run lint
 ```
 yarn run test:unit
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
